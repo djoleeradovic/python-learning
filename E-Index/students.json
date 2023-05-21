@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "Djordje",
+        "last_name": "Radovic",
+        "jmbg": "1712003720040",
+        "module": "Informatika"
+    },
+    "2": {
+        "name": "Petar",
+        "last_name": "Petrovic",
+        "jmbg": "1902004620035",
+        "module": "Trgovina"
+    },
+    "3": {
+        "name": "Danijela",
+        "last_name": "Mladenovic",
+        "jmbg": "1207979727833",
+        "module": "Turizam"
+    }
+}
